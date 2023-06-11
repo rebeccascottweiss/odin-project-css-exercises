@@ -1,0 +1,13 @@
+.button{
+    font-size: 24px;
+    font-family:"Times New Roman", Helvetica, sans-serif;
+}
+
+.standard{
+    background-color: black;
+    color: white;
+}
+
+.urgent{
+    background-color: rgb(243, 243, 53);
+}
